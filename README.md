@@ -11,3 +11,7 @@
     Webpage: https://sorashi.github.io/about/
   </p>
 </div>
+
+$$
+\forall p,t \in \mathbb{N}\ \forall c\colon\ {\mathbb{N} \choose p} \to [t]\ \exists A\subseteq \mathbb{N}\,\ |A|=\infty\colon\ c\ \text{is constant on}\ {A\choose p}\.
+$$
