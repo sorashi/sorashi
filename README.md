@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sorashi&show_icons=true"></img>
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sorashi&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=graywhite)](https://github-stats-extended.vercel.app/api?username=sorashi&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=graywhite)
